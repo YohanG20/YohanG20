@@ -80,7 +80,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  </a>
 	<a href="mailto:yohan.aarong@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	</a>
 	<a href="http://www.linkedin.com/in/yohan-aaron-garcia-gonzalez-b30b212b3"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
