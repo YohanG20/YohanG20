@@ -9,9 +9,9 @@
 
 
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
-### 👉 Programming languages
+### 👉 Lenguajes de programacion:
 
 <p align="left"> 
   &emsp; 
@@ -34,7 +34,7 @@
   
 </p>
 
-### 👉 Frontend Development
+### 👉 Desarrollo de Front End:
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -53,7 +53,7 @@
 
 
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Contacto:
 <p align="center">
   </a>
 	<a href="mailto:yohan.aarong@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
